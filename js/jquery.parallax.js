@@ -1,8 +1,3 @@
-/*
-Plugin: jQuery Parallax
-Versenses/gpl.hml
-*/
-
 (function( $ ){
 	var $window = $(window);
 	var windowHeight = $window.height();
