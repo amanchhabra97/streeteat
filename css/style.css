@@ -1,3 +1,4 @@
+
 body
 	{
 		background: #ffffff;
@@ -129,25 +130,28 @@ hr {
           align-items: center;
   height: 100vh;
   text-align: center;
-}
+opacity: 	;}
 #home h1 {
 	color:black;
   font-size: 40px;
   letter-spacing: 4px;
   font-weight: bold;
   padding-top: 10px;
+  background-color:white;
 }
 #home .btn {
-  background: transparent;
+  background: white;
   border-radius: 0;
   border: 3px solid #ffffff;
-  color: #ffffff;
+  color: black;
   font-weight: bold;
+  font-size:30px;
   letter-spacing: 2px;
   padding: 16px 42px;
   margin-top: 40px;
   transition: all 0.4s ease-in-out;
-}
+color: black;
+border-color:black}
 #home .btn:hover {
   background: #ffffff;
   color: #202020;
