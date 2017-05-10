@@ -137,10 +137,9 @@ opacity: 	;}
   letter-spacing: 4px;
   font-weight: bold;
   padding-top: 10px;
-  background-color:white;
 }
 #home .btn {
-  background: white;
+  background: transparent;
   border-radius: 0;
   border: 3px solid #ffffff;
   color: black;
